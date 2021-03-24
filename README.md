@@ -5,4 +5,6 @@ John, Janet, Kate and Data for Development
 
 - Added raw data download .csv from OECD for 2019 Trade in Employment.
 
-- Saved edited version of raw file (to reduce size) as "03-21_TiM_Four Indicators". Changes made: Deleted empty columns (4), retained only 4 indicators.
+- Saved edited version of raw file (to reduce size) as "03-21_TiM_Four Indicators". Changes made: Deleted empty columns (4), retained only 4 indicators: Empn, Empn_exintdem
+Empn_ffddem, empn_DCE.
+
