@@ -3,7 +3,7 @@ John, Janet and Data for Development
 
 Welcome to the Chapter 14 Data Module! Let's get started: 
 
-1. Download Tableau and Tableau Prep. 
+1. #Download Tableau and Tableau Prep. 
 Go to https://www.tableau.com/academic/students. 
 Use your .edu email to sign up for a year-long free account. 
 Download Tableau Desktop and Tableau Builder Prep. 
