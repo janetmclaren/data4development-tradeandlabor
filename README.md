@@ -1,9 +1,9 @@
-# tradeandlabor
+# internationaltradeanddecentwork
 John, Janet and Data for Development
 
-This is our readme file. :)
+Welcome to the Chapter 14 Data Module! Let's get started: 
+- Step 1: Download Tableau and Tableau Prep. 
 
-For the Data Module, students will need to
 1. Download Tableau and Tableau Prep desktop applications. These applications can be used free of charge for students with .edu accounts for one year.
 2. From this OSF database, download:
     - "Data Module, V3_Manuscript Only_210420.DOCX or .PDF"
