@@ -3,27 +3,27 @@ John, Janet and Data for Development
 
 Welcome to the Chapter 14 Data Module! Let's get started: 
 
-1. #Download Tableau and Tableau Prep. 
+1. # Download Tableau and Tableau Prep. 
 Go to https://www.tableau.com/academic/students. 
 Use your .edu email to sign up for a year-long free account. 
 Download Tableau Desktop and Tableau Builder Prep. 
 
-2. #From our OSF project page, download the following files: 
+2. # From our OSF project page, download the following files: 
 "Data Module, V3_Manuscript Only_210420.DOCX or .PDF"
 "CountryRegion_ILO_210419.csv"
 "InfEmp_ILO_210419.csv"
 “Decent Work Workbook_210420.twbx”
 
-3. #Open the "Data Module" file and follow the instructions to complete the data module assignment.
+3. # Open the "Data Module" file and follow the instructions to complete the data module assignment.
 
 Good Luck! Keep reading to learn more about this project below. 
 
-#Abstract
+**Abstract**
 
 The primary purpose of this chapter’s data work has been to understand the landscape of data related to decent work through (1) describing concepts related to these topics and how they are operationalized, (2) exploring the indicators and datasets covered in the accompanying chapter, (3) understanding the detailed metadata, data coverage and index constructions behind the commonly-used indicators, (4) identifying and bringing to light patterns and relationships in the data as means of testing theories related to our chapter’s key questions, and (5) effectively visualizing this data for comparison among countries and indicators. The result of these research efforts will be to create a data module which illustrates how concepts in trade and labor are operationalized and translated into data and indicators. This will shed light on the ways these data may be used and misused as a result. Though mentioned explicitly in the Sustainable Development Goals (SDG 8), the concept of “decent work” is abstract anda lacks conceptual clarity in development theory and practice. This results in a myriad of definitions and ways to measure decent work in both academic and “gray” literature. It’s linked to child labor, gender equity in the workforce and employment rates in the SDGs. In fact, there is no universally agreed upon indicator that points to whether countries are progressing toward this goal. This data module builds on this empirical work by asking what data is available that indicates whether work is “decent.” Without indicators to show the effects on workers of removing trade barriers, what data exists to test the assumptions embedded in trade as development?
 
 
-#Files in this Github Repository: 
+**Files in this Github Repository:** 
 
 *ILO Dataset: Global Employment Data*
   This dataset (available in Github or on Open Science Framework) is in two spreadsheets titled: InfEmp_ILO_210419.csv and CountryRegion_ILO210419. 
