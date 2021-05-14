@@ -3,22 +3,22 @@ John, Janet and Data for Development
 
 Welcome to the Chapter 14 Data Module! Let's get started: 
 
-1. # Download Tableau and Tableau Prep. 
+**1. Download Tableau and Tableau Prep.** 
 Go to https://www.tableau.com/academic/students. 
 Use your .edu email to sign up for a year-long free account. 
 Download Tableau Desktop and Tableau Builder Prep. 
 
-2. # From our OSF project page, download the following files: 
+**2. From our OSF project page, download the following files:** 
 "Data Module, V3_Manuscript Only_210420.DOCX or .PDF"
 "CountryRegion_ILO_210419.csv"
 "InfEmp_ILO_210419.csv"
 “Decent Work Workbook_210420.twbx”
 
-3. # Open the "Data Module" file and follow the instructions to complete the data module assignment.
+**3. Open the "Data Module" file and follow the instructions to complete the data module assignment.**
 
 Good Luck! Keep reading to learn more about this project below. 
 
-**Abstract**
+# Abstract
 
 The primary purpose of this chapter’s data work has been to understand the landscape of data related to decent work through (1) describing concepts related to these topics and how they are operationalized, (2) exploring the indicators and datasets covered in the accompanying chapter, (3) understanding the detailed metadata, data coverage and index constructions behind the commonly-used indicators, (4) identifying and bringing to light patterns and relationships in the data as means of testing theories related to our chapter’s key questions, and (5) effectively visualizing this data for comparison among countries and indicators. The result of these research efforts will be to create a data module which illustrates how concepts in trade and labor are operationalized and translated into data and indicators. This will shed light on the ways these data may be used and misused as a result. Though mentioned explicitly in the Sustainable Development Goals (SDG 8), the concept of “decent work” is abstract anda lacks conceptual clarity in development theory and practice. This results in a myriad of definitions and ways to measure decent work in both academic and “gray” literature. It’s linked to child labor, gender equity in the workforce and employment rates in the SDGs. In fact, there is no universally agreed upon indicator that points to whether countries are progressing toward this goal. This data module builds on this empirical work by asking what data is available that indicates whether work is “decent.” Without indicators to show the effects on workers of removing trade barriers, what data exists to test the assumptions embedded in trade as development?
 
@@ -35,11 +35,11 @@ The primary purpose of this chapter’s data work has been to understand the lan
 
 # Chapter 14: Connecting Free Trade and Decent Work (Data Module)
 
-Introduction: In Chapter 14 of the Global Development textbook, we introduced a diverse set of labor measures used in the global development community, from free trade negotiators to Aid for Trade benefactors. Many of these measures, including unemployment, wages, child labor rates, and measures of social protections, are codified as key indicators in the United Nations’ Sustainable Development Goal 8. However, in Chapter 14 we make the case that a newer and lesser-known measure, informal employment, is a central indicator of decent work for actors in the international community. Informal employment intersects directly with free trade policies, which are often given the explicit goal of formalizing a country’s enterprises and economy. Informal employment intersects with “decent work” based primarily on its association with jobs that lack basic legal protections (e.g. work contracts, governmental protections) associated with good working conditions.  In this data module, we will dive into the International Labour Organization (ILO) datasets on all of these indicators. As you will see, informal employment data has strong correlations with many measures of decent work.
+**Introduction:** In Chapter 14 of the Global Development textbook, we introduced a diverse set of labor measures used in the global development community, from free trade negotiators to Aid for Trade benefactors. Many of these measures, including unemployment, wages, child labor rates, and measures of social protections, are codified as key indicators in the United Nations’ Sustainable Development Goal 8. However, in Chapter 14 we make the case that a newer and lesser-known measure, informal employment, is a central indicator of decent work for actors in the international community. Informal employment intersects directly with free trade policies, which are often given the explicit goal of formalizing a country’s enterprises and economy. Informal employment intersects with “decent work” based primarily on its association with jobs that lack basic legal protections (e.g. work contracts, governmental protections) associated with good working conditions.  In this data module, we will dive into the International Labour Organization (ILO) datasets on all of these indicators. As you will see, informal employment data has strong correlations with many measures of decent work.
 
 By the end of the module, you will have a stronger understanding of the data available on global informal employment and the relationship between informal employment and other measures of decent work. You will be equipped with new data processing, analysis, and visualization skills using Tableau Prep and Tableau. You will also be equipped to create your own independent analysis of informal employment data, describe the limitations and characteristics of this dataset as a proxy measure for “decent work,” and continue digging into the international labor data landscape on your own.
 
-##Data Preparation, Analysis and Exploration
+## Data Preparation, Analysis and Exploration
 
 **Getting Started:** In this module, you will spend considerable time making charts and choosing which ones to use in a dashboard that visualizes informal employment. Here are a few tips to get you started: First, manage your time well. Try to complete this module in around 4 hours. It’s easy to get caught up in formatting when you’re working with data, so one tip is to focus on the big stuff (the right variables and visualization types) and leave the details (which are still important) until the end. Secondly, stay focused on learning. In every step of this module, and there are many steps, you will get more out of the work if you reflect on why you made the choices you did and evaluate how well your approach worked. Also, don’t worry about making your dashboard visuals perfect the first time. You can always return to it for this or future projects--we hope you find Tableau as interesting to tinker with as we do! 
 
@@ -87,7 +87,7 @@ How does data quality affect or change your assessment and comparison of informa
 Additional work: how could you effectively visualize data deprivations while communicating the existing data on informal employment? Consider trying to use color or size options to visualize both the average and the count of “inf_emp_rate”!
 
 
-Part 2. Exploring the relationships between informal employment data and other proxy measures of decent work
+**Part 2. Exploring the relationships between informal employment data and other proxy measures of decent work**
 In this section, we’ll create a series of similar charts (scatterplots) that compare indicators often used as proxy measures for decent work with data on informal employment that you explored in Part 1.
 You will not use the workbook you created in the first part of the data module. Instead, we have provided a workbook with our version of the visualization you created in Part 1, in addition to a host of new, connected datasets on decent work. You should have already downloaded this workbook (“Decent Work Workbook_210419.TWBX”) from OSF after following the README.txt. Open this workbook in Tableau and right click on the data to explore. When you’re familiar with what’s included in this workbook, proceed to the next step of exploring proxy variables for different work including: Unemployment, Wages, Social Protections and Child Labor. Once you’ve created four scatterplots that visualize these measures, your final task will be to create a dashboard for further exploration. 
 
@@ -120,7 +120,7 @@ Create a final chart that compares informal employment with child labor rates (�
 Create a new dashboard. Choose ‘Floating’ in the Objects Panel and drag “Global Informal Employment” (the first chart in this workbook from Part 1) to the dash. Select ‘Fit’ > ‘Entire View’ and expand this bar chart to show the data clearly. Make sure to keep your objects “floating,” at least in the beginning as you experiment with displaying charts in this dashboard.
 Now experiment with adding the four charts you created in Part 2 to this dashboard. Pick two that clearly communicate the story you want to tell about informal employment. Adjust the formatting of charts and display options to make sure the data is clear. Give your dashboard a title and experiment with adding filter or highlighting actions by clicking ‘Dashboard’ > ‘Actions’ in the toolbar. Then answer the following questions. 
 
-2.6 Module Discussion Questions: 
+**Module Discussion Questions:** 
 How does what you explored in Part 1 regarding the quality and coverage of reporting on informal employment affect your interpretation of the proxy measures you compared to informal employment rates in Part 2? Data analysts and policy professionals often must “make do” with existing data just like this. What are some ways you could provide context to viewers of your final dashboard regarding the availability of data on informal employment? 
 Take a moment to explore the dashboard you created. Given the positive assumptions we make about low unemployment, how does its association with high informal employment challenge that view? What do we notice happening to wages and social protections as informal employment rates go up? Why do you think this happens? Does looking at these charts together provide any new insights into the value of informal employment as an appropriate measure of decent work? What about unemployment data? 
 What are some other characteristics of countries or domestic labor markets/economies that might explain these strong correlative relationships? (e.g. strong institutions, consider adding social protection measure)
@@ -128,19 +128,3 @@ Does your data work in this module, including the visualizations you created, su
 What other measures or data would we need to create an indicator for decent work?
 
  
-3. Useful resources for Further Analysis and Discussion
-
-Additional resources for data visualization and technical support: 
-Berinato, S. “Visualizations that really work.” Harvard Business Review, 94 (6), 93-100 (2016). https://hbr.org/2016/06/visualizations-that-really-work. 
-Phillip, Rowan. “10 Tips for Visualizing COVID-19 Data.” GIJN. June 18, 2020. Available at:  https://gijn.org/2020/06/18/10-tips-for-visualizing-covid-19-data/.
-The Tableau Knowledge Base, available at: www.tableau.com/support/knowledgebase.
-Tierney, Nicholas J., and Dianne H. Cook. "Expanding tidy data principles to facilitate missing data exploration, visualization and assessment of imputations." arXiv preprint arXiv:1809.02264 (2018).
-
-Further reading on decent work: (in progress)
- 
-More data to explore on trade and employment: 
-“2021 Index of Economic Freedom” dataset. The Heritage Foundation (2020). Full download available at: https://www.heritage.org/index/download.  
-The Commitment to Development Index 2020. Center for Global Development. Available at: https://www.cgdev.org/cdi#/.  
-“NYU Stern Globalization Explorer.” DHL Global Connectedness Index 2018. Deutsche Post DHL, 2019. Available at: https://globalization.stern.nyu.edu/maps?country=USA&indicator=mx&year=2019&color=default. 
-Ortiz-Ospina, Esteban and Diana Beltekian. “Trade and Globalization.” Our World in Data (2018). https://ourworldindata.org/trade-and-globalization#. 
-The Growth Lab at Harvard University. “The Atlas of Economic Complexity.”  http://www.atlas.cid.harvard.edu.  
